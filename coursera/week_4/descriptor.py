@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 class Value:
 
     def __init__(self, amount=None):

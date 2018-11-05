@@ -1,5 +1,4 @@
-
-
+#!/usr/bin/env python3
 class FileReader:
         """Класс FileReader помогает читать из файла"""
 
