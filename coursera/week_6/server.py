@@ -4,7 +4,7 @@ import asyncio
 metrics_list = []
 
 
-def run_server(host='127.0.0.1', port=8888):
+def run_server(host='127.0.0.1', port=10001):
 
     loop = asyncio.get_event_loop()
     coro = loop.create_server(ClientServerProtocol, host, int(port))

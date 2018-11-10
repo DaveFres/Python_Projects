@@ -1,31 +1,31 @@
-# Программирование на Python
+# Python programming
 
-Решение наиболее интересных задач из курса на Coursera – [**Программирование на Python**](https://www.coursera.org/learn/diving-in-python/home/welcome)
+The solution of the most interesting problems from the course on Coursera – [**Python programming**](https://www.coursera.org/learn/diving-in-python/home/welcome)
 
-## Список задач
+## Task list
 
-### [Неделя 2](https://github.com/DaveFres/Python_Projects/tree/master/coursera/week_2)
+### [Week 2](https://github.com/DaveFres/Python_Projects/tree/master/coursera/week_2)
 
-* Key-value хранилище
-* Декоратор to_json
+* Key-value storage
+* Decorator to_json
 
-### [Неделя 3](https://github.com/DaveFres/Python_Projects/tree/master/coursera/week_3)
+### [Week 3](https://github.com/DaveFres/Python_Projects/tree/master/coursera/week_3)
 
-* Реализация простого класса для чтения из файла
-* Классы и наследование
+* Implementing a simple class to read from a file
+* Classes and Inheritance
 
-### [Неделя 4](https://github.com/DaveFres/Python_Projects/tree/master/coursera/week_4)
+### [Week 4](https://github.com/DaveFres/Python_Projects/tree/master/coursera/week_4)
 
-* Дескриптор с комиссией
-* Файл с магическими методами
+* Descriptor
+* File with magic methods
 
-### [Неделя 5](https://github.com/DaveFres/Python_Projects/tree/master/coursera/week_5)
+### [Week 5](https://github.com/DaveFres/Python_Projects/tree/master/coursera/week_5)
 
-* Клиент для отправки метрик
+* Client to send metrics
 
-### [Неделя 6](https://github.com/DaveFres/Python_Projects/tree/master/coursera/week_6)
+### [Week 6](https://github.com/DaveFres/Python_Projects/tree/master/coursera/week_6)
 
-* Сервер для приема метрик
+* Server for receiving metrics
 
 
 
