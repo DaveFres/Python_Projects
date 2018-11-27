@@ -1,5 +1,5 @@
 # Python_Projects
-My projects in Python. 
+My projects on Python. 
 
 ## Content 
 * [Coursera](https://github.com/DaveFres/Python_Projects/tree/master/coursera) : The solution of the most interesting problems from the course on Coursera.
