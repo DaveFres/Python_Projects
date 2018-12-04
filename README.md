@@ -6,6 +6,6 @@ My projects on Python.
 
 * [Exercism](https://github.com/DaveFres/Python_Projects/tree/master/exercism) : Solution of problems with the website [**Exercism**](https://exercism.io) 
 
-
+* [Interesting_Tasks](https://github.com/DaveFres/Python_Projects/tree/master/Interesting_Tasks) : Some tasks that seemed interesting to me.
 
 
