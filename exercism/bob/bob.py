@@ -6,7 +6,7 @@ def hey(phrase):
         return 'Fine. Be that way!'
 
     if phrase[-1] == '?':
-        if str.isupper(phrase.rstrip()):
+        if str.isupper(phrase):
             return 'Calm down, I know what I\'m doing!'
         return 'Sure.'
 
